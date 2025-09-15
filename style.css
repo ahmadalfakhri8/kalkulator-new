@@ -1,0 +1,56 @@
+html {
+    width: 1000px;
+}
+
+.kotak {
+    display: grid;
+    justify-content: center;
+    background-color: blue;
+    color: yellow;
+    padding: 3px;
+    margin-bottom: 5px;
+}
+
+h3 {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+.tombol {
+    background-color: red;
+    display :flex;
+    justify-content: center;
+    gap: 10px;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+
+button {
+    width: 50px;
+    height: 50px;
+}
+
+.kotakhasil {
+    display: flex;
+    justify-content: center;
+    background-color: yellow;
+}
+
+p {
+    padding: 5px;
+}
+
+.hasil {
+    background-color: white;
+    width: 100px;
+}
+
+.reset {
+    background-color: yellow;
+    width: 100px;
+    text-align: center;
+    margin: auto;
+}
